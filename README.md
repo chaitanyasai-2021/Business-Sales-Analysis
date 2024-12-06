@@ -23,19 +23,23 @@ The **Adventure Works Business Analysis** Power BI project empowers stakeholders
 ---
 
 ## 🖼️ Screenshots  
-
+--------------------------------
 ### 1️⃣ **Main Dashboard**  
-A high-level overview of **total revenue, sales trends, and profitability**.  
+A high-level overview of **total revenue, sales trends, and profitability**.   
 ![Main Dashboard](visualization/main.png)  
----
+--------------------------------
+
 ### 2️⃣ **Customer Dashboard**  
 Insights into **customer demographics, purchasing patterns, and segmentation**.  
 ![Customer Dashboard](visualization/customer.png)  
----
+
+--------------------------------
 ### 3️⃣ **Map Dashboard**  
 Geospatial data visualizing **regional sales distribution**.  
 ![Map Dashboard](visualization/map.png)  
----
+
+--------------------------------
+
 ### 4️⃣ **Product Dashboard**  
 Tracks **product performance, inventory levels, and sales contributions**.  
 📸 ![Product Dashboard](visualization/product.png)  
