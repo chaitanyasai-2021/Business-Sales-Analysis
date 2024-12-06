@@ -4,16 +4,6 @@ Welcome to the **Adventure Works Business Analysis** project! This Power BI repo
 
 ---
 
-## Table of Contents
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Screenshots](#screenshots)
-4. [How to Use](#how-to-use)
-5. [Requirements](#requirements)
-6. [Contact](#contact)
-
----
-
 ## Overview
 The Adventure Works Business Analysis Power BI project helps stakeholders make informed decisions by visualizing data trends and patterns. It covers:
 - Customer segmentation and behavior
