@@ -34,19 +34,19 @@ The Adventure Works Business Analysis Power BI project helps stakeholders make i
 
 ## Screenshots
 ### 1. Main Dashboard  
-![Main Dashboard](visualizations/main.png)  
+![Main Dashboard](visualization/main.png)  
 The **Main Dashboard** offers a high-level view of key business metrics, including total revenue, sales trends, and profitability.
 
 ### 2. Customer Dashboard  
-![Customer Dashboard](visualizations/customer.png)  
+![Customer Dashboard](visualization/customer.png)  
 The **Customer Dashboard** provides insights into customer demographics, purchasing patterns, and segmentation.
 
 ### 3. Map Dashboard  
-![Map Dashboard](visualizations/map.png)  
+![Map Dashboard](visualization/map.png)  
 The **Map Dashboard** visualizes sales distribution across regions using geospatial data.
 
 ### 4. Product Dashboard  
-![Product Dashboard](visualizations/product.png)  
+![Product Dashboard](visualization/product.png)  
 The **Product Dashboard** highlights product performance metrics, inventory levels, and sales contributions.
 
 ---
